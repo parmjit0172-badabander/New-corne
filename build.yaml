@@ -20,6 +20,6 @@
 ---
 include:
   - board: nrf52840dk_nrf52840
-    shield: corne_left
+    shield: Wellum36_left
   - board: nrf52840dk_nrf52840
-    shield: corne_right
+    shield: Wellum36_right
